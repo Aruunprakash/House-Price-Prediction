@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.14 (The-Global-Green-Energy-Transition-Tracker)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (The-Global-Green-Energy-Transition-Tracker)" project-jdk-type="Python SDK" />
 </project>
