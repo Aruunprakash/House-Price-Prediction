@@ -46,24 +46,34 @@ The project demonstrates the complete Machine Learning workflow, including data 
 ## 📊 Project Workflow
 
 ### 1. Data Cleaning
-
-* Missing Value Handling
-* Data Standardization
-* Square Footage Conversion
-* Invalid Data Detection
+- Missing Value Handling
+- Data Standardization
+- Square Footage Conversion
+- Invalid Data Detection
 
 ### 2. Feature Engineering
+- BHK Extraction
+- Price Per Square Foot
+- Location-Based Features
+- Rare Category Handling
 
-* BHK Extraction
-* Price Per Square Foot
-* Location-Based Features
-* Rare Category Handling
+### 3. Outlier Detection & Removal
+- Bathroom-Based Outlier Removal
+- BHK-Based Outlier Removal
+- Location-Wise Price Analysis
 
-### 3.Outlier Detection & Removal
-* Removed bathroom outliers
-* Removed BHK-based outliers
-* Performed location-wise price analysis
+### 4. Data Encoding
+- One-Hot Encoding
+- Feature Selection
+- Dataset Preparation
 
+### 5. Model Development
+- Train-Test Split
+- Cross Validation
+- GridSearchCV
+- Hyperparameter Tuning
+- Best Model Selection
+- House Price Prediction
 
 ## 📜 License
 
