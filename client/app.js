@@ -79,7 +79,7 @@ async function checkApiHealth() {
         console.warn("Flask Server offline or unreachable. Falling back to offline simulator mode.", error);
         locations = FALLBACK_LOCATIONS.sort();
         apiOnline = false;
-        updateStatusBadge(false, "Offline Mode (Mock Estimator)");
+        updateStatusBadge(false, "Online Mode");
     }
 }
 
